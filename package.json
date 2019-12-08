@@ -1,0 +1,22 @@
+{
+  "name": "onlineshoppingmernstack",
+  "version": "1.0.0",
+  "description": "online shopping website using mern stack for self learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/026binit/onlineShoppingMernStack.git"
+  },
+  "author": "Binit chandra jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/026binit/onlineShoppingMernStack/issues"
+  },
+  "homepage": "https://github.com/026binit/onlineShoppingMernStack#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
